@@ -107,3 +107,16 @@ ul {
     flex-direction: row;
     justify-content: space-evenly;
 }
+
+.push{
+    margin-left: auto;
+}
+
+li { 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    margin: 0px 3px;
+    border: 1px solid limegreen;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
