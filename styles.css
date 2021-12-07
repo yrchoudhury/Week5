@@ -179,3 +179,38 @@ padding: 10px;
     color: navy;
     font-size: 20px;
 }
+
+button {
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    padding: 10px;
+    margin: 2px;
+    transition-duration: 4s;
+}
+
+button:hover{
+    background-color: limegreen;
+    color: white;
+}
+
+button:active{
+    background-color: #3e8e41;
+    box-shadow: 0 5px darkred;
+    transform: translateY(4px)
+}
+
+footer { 
+    background-color: rebeccapurple;
+    height: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-small;
+    color: white;
+    padding: 10px 0px;
+}
+
+.section-five { 
+    background-color: goldenrod;
+}
